@@ -10,3 +10,4 @@ hello git!hello haha
 hello git!hello haha
 hello git!hello haha$$$$$
 hello git!hello haha hot-fix 
+加一行试试 不用冲突
